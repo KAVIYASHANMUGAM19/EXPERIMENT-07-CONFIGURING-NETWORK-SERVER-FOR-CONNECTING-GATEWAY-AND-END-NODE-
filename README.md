@@ -1,6 +1,5 @@
-## NAME: S.KAVIYA
-## REGSITER NO: 212223040090
-## DEPARTMENT : CSE
+ ## DATE: 02.04.24
+ 
  ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
 ## Aim: To  configure  the Network server and end device for traferring data on the network
